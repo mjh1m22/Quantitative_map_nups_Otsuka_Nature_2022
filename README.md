@@ -5,6 +5,6 @@ The code has been tested on the following versions. Previous versions of MATLAB 
 * MATLAB 2022a  
 * Bioformat for MATLAB (http://downloads.openmicroscopy.org/bio-formats/5.3.4/)
 # How to run
-* Set the configurations (running options and parameters) in 'fn.configurations.m' file
+* Set the configurations (running options and parameters) in 'fn_configurations.m' file
 * Run 'fn_quantify_nups_kinetics_main'
 * The configurations parameters, segmentation visualizations and extracted parameters are saved in the output folder
